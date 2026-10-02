@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "published": "2026-10-02",
   "zip": {
-    "url": "https://github.com/OliverD25/cabinetos/releases/download/v0.1.0/CabinetOS-0.1.0-win-x64.zip",
-    "sha256": "ad1535e3faf67846a59622ed5c6b12f092bc19e26ceb7728ed2a560351e6722c",
-    "size": 79461646
+    "url": "https://github.com/OliverD25/cabinetos/releases/download/v0.1.1/CabinetOS-0.1.1-win-x64.zip",
+    "sha256": "5038202d9d24c2566c444c1fb58c2aa062ef232b39e49d0505a80e4785403e97",
+    "size": 79397382
   },
   "notes": {
-    "url": "https://oliverd25.github.io/cabinetos-marketplace/update/stable/notes-0.1.0.md"
+    "url": "https://oliverd25.github.io/cabinetos-marketplace/update/stable/notes-0.1.1.md"
   },
   "requires": {
     "windowsAppRuntime": "2.5",
