@@ -1,7 +1,41 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-10-03T00:51:37Z",
+    "generatedAt":  "2026-10-03T03:21:20Z",
     "items":  [
+                  {
+                      "id":  "catppuccin-latte",
+                      "kind":  "theme",
+                      "name":  "Catppuccin Latte",
+                      "author":  {
+                                     "name":  "CabinetOS",
+                                     "verified":  false
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "A light colour theme.",
+                      "long":  "A light colour theme. Colours from the Catppuccin Latte palette by the Catppuccin organization (https://catppuccin.com), used under the MIT License.",
+                      "size":  1552,
+                      "download":  {
+                                       "url":  "files/catppuccin-latte-1.0.0.json",
+                                       "sha256":  "12c50f5cacc910775ecde3a2a1cf328923e4a4df6b4809f9b410f587699cfbdb"
+                                   },
+                      "manifest":  {
+                                       "id":  "catppuccin-latte",
+                                       "name":  "Catppuccin Latte",
+                                       "author":  "CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "light",
+                                       "accent":  "#8839EF"
+                                   },
+                      "appearance":  "light",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#DDE0E7",
+                                   "text":  "#313344",
+                                   "accent":  "#8839EF"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
                   {
                       "id":  "catppuccin-mocha",
                       "kind":  "theme",
@@ -105,6 +139,40 @@
                       "license":  "MIT"
                   },
                   {
+                      "id":  "github-light",
+                      "kind":  "theme",
+                      "name":  "GitHub Light",
+                      "author":  {
+                                     "name":  "CabinetOS",
+                                     "verified":  false
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "A light colour theme.",
+                      "long":  "A light colour theme. Colours from GitHub Light Default of the GitHub VS Code Theme and Primer Primitives by GitHub (https://github.com/primer/github-vscode-theme), used under the MIT License.",
+                      "size":  1588,
+                      "download":  {
+                                       "url":  "files/github-light-1.0.0.json",
+                                       "sha256":  "e6bf2d8a174190060d0a266988b01e235ad07450552427f60720feaa8033a216"
+                                   },
+                      "manifest":  {
+                                       "id":  "github-light",
+                                       "name":  "GitHub Light",
+                                       "author":  "CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "light",
+                                       "accent":  "#0969DA"
+                                   },
+                      "appearance":  "light",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#FCFDFD",
+                                   "text":  "#1F2328",
+                                   "accent":  "#0969DA"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
                       "id":  "nord",
                       "kind":  "theme",
                       "name":  "Nord",
@@ -203,41 +271,6 @@
                                    "background":  "#0D1117",
                                    "text":  "#E6EDF3",
                                    "accent":  "#2F81F7"
-                               },
-                      "minCoreVersion":  "0.1.0",
-                      "license":  "MIT"
-                  },
-                  {
-                      "id":  "github-light",
-                      "kind":  "theme",
-                      "name":  "GitHub Light",
-                      "author":  {
-                                     "name":  "GitHub (Primer), port by CabinetOS",
-                                     "verified":  false,
-                                     "url":  "https://github.com/primer/github-vscode-theme"
-                                 },
-                      "version":  "1.0.0",
-                      "description":  "GitHub Light Default: the white canvas, grey borders and blue accent of GitHub.com.",
-                      "long":  "GitHub Light Default: the white canvas, grey borders and blue accent of GitHub.com. Colours from GitHub Light Default of the GitHub VS Code Theme and Primer Primitives by GitHub (https://github.com/primer/github-vscode-theme), used under the MIT License.",
-                      "size":  1613,
-                      "download":  {
-                                       "url":  "files/github-light-1.0.0.json",
-                                       "sha256":  "65533e767efb425b1cfcb7f89307067c420d5a6fcc6df1e6d9ca3af7fe994174"
-                                   },
-                      "manifest":  {
-                                       "id":  "github-light",
-                                       "name":  "GitHub Light",
-                                       "author":  "GitHub (Primer), port by CabinetOS",
-                                       "version":  "1.0.0",
-                                       "kind":  "light",
-                                       "accent":  "#0969DA"
-                                   },
-                      "appearance":  "light",
-                      "density":  false,
-                      "tile":  {
-                                   "background":  "#FCFDFD",
-                                   "text":  "#1F2328",
-                                   "accent":  "#0969DA"
                                },
                       "minCoreVersion":  "0.1.0",
                       "license":  "MIT"
@@ -908,41 +941,6 @@
                       "license":  "MIT"
                   },
                   {
-                      "id":  "catppuccin-latte",
-                      "kind":  "theme",
-                      "name":  "Catppuccin Latte",
-                      "author":  {
-                                     "name":  "Catppuccin, port by CabinetOS",
-                                     "verified":  false,
-                                     "url":  "https://github.com/catppuccin/palette"
-                                 },
-                      "version":  "1.0.0",
-                      "description":  "Catppuccin Latte: the soothing pastel palette, light flavour.",
-                      "long":  "Catppuccin Latte: the soothing pastel palette, light flavour. Colours from the Catppuccin Latte palette by the Catppuccin organization (https://catppuccin.com), used under the MIT License.",
-                      "size":  1572,
-                      "download":  {
-                                       "url":  "files/catppuccin-latte-1.0.0.json",
-                                       "sha256":  "e203b0719910eea540e096e984146c0db3aeb697988e5320af5d211d4b220919"
-                                   },
-                      "manifest":  {
-                                       "id":  "catppuccin-latte",
-                                       "name":  "Catppuccin Latte",
-                                       "author":  "Catppuccin, port by CabinetOS",
-                                       "version":  "1.0.0",
-                                       "kind":  "light",
-                                       "accent":  "#8839EF"
-                                   },
-                      "appearance":  "light",
-                      "density":  false,
-                      "tile":  {
-                                   "background":  "#DDE0E7",
-                                   "text":  "#313344",
-                                   "accent":  "#8839EF"
-                               },
-                      "minCoreVersion":  "0.1.0",
-                      "license":  "MIT"
-                  },
-                  {
                       "id":  "catppuccin-frappe",
                       "kind":  "theme",
                       "name":  "Catppuccin Frappé",
@@ -1428,6 +1426,636 @@
                                    "background":  "#FBE5DF",
                                    "text":  "#06060C",
                                    "accent":  "#E84A72"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "everforest-dark",
+                      "kind":  "theme",
+                      "name":  "Everforest Dark",
+                      "author":  {
+                                     "name":  "sainnhe, port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/sainnhe/everforest"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Everforest Dark: a green-based palette, warm and soft to protect the eyes (medium contrast).",
+                      "long":  "Everforest Dark: a green-based palette, warm and soft to protect the eyes (medium contrast). Colours from Everforest Dark, medium contrast, by sainnhe (https://github.com/sainnhe/everforest), used under the MIT License.",
+                      "size":  1566,
+                      "download":  {
+                                       "url":  "files/everforest-dark-1.0.0.json",
+                                       "sha256":  "36135dd04c4b3539ca5fcb1bcbbcb8f02e88765c561e38fd5c188e58cd5cbf48"
+                                   },
+                      "manifest":  {
+                                       "id":  "everforest-dark",
+                                       "name":  "Everforest Dark",
+                                       "author":  "sainnhe, port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "dark",
+                                       "accent":  "#A7C080"
+                                   },
+                      "appearance":  "dark",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#2C3439",
+                                   "text":  "#D8CDB4",
+                                   "accent":  "#A7C080"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "everforest-light",
+                      "kind":  "theme",
+                      "name":  "Everforest Light",
+                      "author":  {
+                                     "name":  "sainnhe, port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/sainnhe/everforest"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Everforest Light: the same warm, soft green palette on cream (medium contrast).",
+                      "long":  "Everforest Light: the same warm, soft green palette on cream (medium contrast). Colours from Everforest Light, medium contrast, by sainnhe (https://github.com/sainnhe/everforest), used under the MIT License.",
+                      "size":  1570,
+                      "download":  {
+                                       "url":  "files/everforest-light-1.0.0.json",
+                                       "sha256":  "85720776536f59009e40002a8f74aaa9c3d86e659d0cd1c99a8427a80df86e29"
+                                   },
+                      "manifest":  {
+                                       "id":  "everforest-light",
+                                       "name":  "Everforest Light",
+                                       "author":  "sainnhe, port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "light",
+                                       "accent":  "#8DA101"
+                                   },
+                      "appearance":  "light",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#F9F3DF",
+                                   "text":  "#374044",
+                                   "accent":  "#8DA101"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "kanagawa",
+                      "kind":  "theme",
+                      "name":  "Kanagawa",
+                      "author":  {
+                                     "name":  "Tommaso Laurenzi (rebelot), port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/rebelot/kanagawa.nvim"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Kanagawa Wave: a dark scheme inspired by the colours of Hokusai\u0027s famous painting.",
+                      "long":  "Kanagawa Wave: a dark scheme inspired by the colours of Hokusai\u0027s famous painting. Colours from Kanagawa Wave by Tommaso Laurenzi (https://github.com/rebelot/kanagawa.nvim), used under the MIT License.",
+                      "size":  1565,
+                      "download":  {
+                                       "url":  "files/kanagawa-1.0.0.json",
+                                       "sha256":  "df626d535758ef4ec7fd2ef9ac68821d9cce5c8b635f747ceef7708d4847039f"
+                                   },
+                      "manifest":  {
+                                       "id":  "kanagawa",
+                                       "name":  "Kanagawa",
+                                       "author":  "Tommaso Laurenzi (rebelot), port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "dark",
+                                       "accent":  "#7E9CD8"
+                                   },
+                      "appearance":  "dark",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#21212A",
+                                   "text":  "#DCD7BA",
+                                   "accent":  "#7E9CD8"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "rose-pine",
+                      "kind":  "theme",
+                      "name":  "Rosé Pine",
+                      "author":  {
+                                     "name":  "Rosé Pine, port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/rose-pine/palette"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Rosé Pine: all natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
+                      "long":  "Rosé Pine: all natural pine, faux fur and a bit of soho vibes for the classy minimalist. Colours from the Rosé Pine palette by the Rosé Pine project (https://rosepinetheme.com), used under the MIT License.",
+                      "size":  1552,
+                      "download":  {
+                                       "url":  "files/rose-pine-1.0.0.json",
+                                       "sha256":  "3208a2ac2add04212179e10a6a1df527d02ed7561f734fdad82f170f98bd5dba"
+                                   },
+                      "manifest":  {
+                                       "id":  "rose-pine",
+                                       "name":  "Rosé Pine",
+                                       "author":  "Rosé Pine, port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "dark",
+                                       "accent":  "#EBBCBA"
+                                   },
+                      "appearance":  "dark",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#1D1B29",
+                                   "text":  "#E0DEF4",
+                                   "accent":  "#EBBCBA"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "rose-pine-dawn",
+                      "kind":  "theme",
+                      "name":  "Rosé Pine Dawn",
+                      "author":  {
+                                     "name":  "Rosé Pine, port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/rose-pine/palette"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Rosé Pine Dawn: the light variant of Rosé Pine, warm cream with dusky rose.",
+                      "long":  "Rosé Pine Dawn: the light variant of Rosé Pine, warm cream with dusky rose. Colours from the Rosé Pine Dawn palette by the Rosé Pine project (https://rosepinetheme.com), used under the MIT License.",
+                      "size":  1566,
+                      "download":  {
+                                       "url":  "files/rose-pine-dawn-1.0.0.json",
+                                       "sha256":  "0942a3bd18defc191bf227ef7366a743755853bbb4c6462020568c58e5bc267c"
+                                   },
+                      "manifest":  {
+                                       "id":  "rose-pine-dawn",
+                                       "name":  "Rosé Pine Dawn",
+                                       "author":  "Rosé Pine, port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "light",
+                                       "accent":  "#D7827E"
+                                   },
+                      "appearance":  "light",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#FBF5EE",
+                                   "text":  "#403D5A",
+                                   "accent":  "#D7827E"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "nightfox",
+                      "kind":  "theme",
+                      "name":  "Nightfox",
+                      "author":  {
+                                     "name":  "James Simpson (EdenEast), port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/EdenEast/nightfox.nvim"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Nightfox: a dark blue theme with soft, clear colours.",
+                      "long":  "Nightfox: a dark blue theme with soft, clear colours. Colours from Nightfox by James Simpson (https://github.com/EdenEast/nightfox.nvim), used under the MIT License.",
+                      "size":  1556,
+                      "download":  {
+                                       "url":  "files/nightfox-1.0.0.json",
+                                       "sha256":  "1664aed8628fe2432e6a6c994bf69109e3946cb7eb278ba9dc33e18949c7b771"
+                                   },
+                      "manifest":  {
+                                       "id":  "nightfox",
+                                       "name":  "Nightfox",
+                                       "author":  "James Simpson (EdenEast), port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "dark",
+                                       "accent":  "#719CD6"
+                                   },
+                      "appearance":  "dark",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#1B2532",
+                                   "text":  "#CDCECF",
+                                   "accent":  "#719CD6"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "dayfox",
+                      "kind":  "theme",
+                      "name":  "Dayfox",
+                      "author":  {
+                                     "name":  "James Simpson (EdenEast), port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/EdenEast/nightfox.nvim"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Dayfox: the light theme of the Nightfox family, warm paper with deep violet text.",
+                      "long":  "Dayfox: the light theme of the Nightfox family, warm paper with deep violet text. Colours from Dayfox by James Simpson (https://github.com/EdenEast/nightfox.nvim), used under the MIT License.",
+                      "size":  1547,
+                      "download":  {
+                                       "url":  "files/dayfox-1.0.0.json",
+                                       "sha256":  "58da0083d3851da7e8e773d43ed69e1c3523475c7cd2948bc535a9edca157764"
+                                   },
+                      "manifest":  {
+                                       "id":  "dayfox",
+                                       "name":  "Dayfox",
+                                       "author":  "James Simpson (EdenEast), port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "light",
+                                       "accent":  "#2848A9"
+                                   },
+                      "appearance":  "light",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#F1ECE7",
+                                   "text":  "#3D2B5A",
+                                   "accent":  "#2848A9"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "vitesse-dark",
+                      "kind":  "theme",
+                      "name":  "Vitesse Dark",
+                      "author":  {
+                                     "name":  "Anthony Fu, port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/antfu/vscode-theme-vitesse"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Vitesse Dark: a minimal near-black theme with muted green.",
+                      "long":  "Vitesse Dark: a minimal near-black theme with muted green. Colours from Vitesse Dark by Anthony Fu (https://github.com/antfu/vscode-theme-vitesse), used under the MIT License.",
+                      "size":  1557,
+                      "download":  {
+                                       "url":  "files/vitesse-dark-1.0.0.json",
+                                       "sha256":  "0f6bb59477298fa41b3c53e46d3b1eacb276949e35cf86f3735a7edbccaa7b16"
+                                   },
+                      "manifest":  {
+                                       "id":  "vitesse-dark",
+                                       "name":  "Vitesse Dark",
+                                       "author":  "Anthony Fu, port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "dark",
+                                       "accent":  "#4D9375"
+                                   },
+                      "appearance":  "dark",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#161616",
+                                   "text":  "#DBD7CA",
+                                   "accent":  "#4D9375"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "vitesse-light",
+                      "kind":  "theme",
+                      "name":  "Vitesse Light",
+                      "author":  {
+                                     "name":  "Anthony Fu, port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/antfu/vscode-theme-vitesse"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Vitesse Light: a minimal white theme with muted green.",
+                      "long":  "Vitesse Light: a minimal white theme with muted green. Colours from Vitesse Light by Anthony Fu (https://github.com/antfu/vscode-theme-vitesse), used under the MIT License.",
+                      "size":  1557,
+                      "download":  {
+                                       "url":  "files/vitesse-light-1.0.0.json",
+                                       "sha256":  "a7a5d7dafd3eb004d6359db69eb1d26201ec776a8387590346e9f118e4ac956d"
+                                   },
+                      "manifest":  {
+                                       "id":  "vitesse-light",
+                                       "name":  "Vitesse Light",
+                                       "author":  "Anthony Fu, port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "light",
+                                       "accent":  "#1C6B48"
+                                   },
+                      "appearance":  "light",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#FDFDFD",
+                                   "text":  "#393A34",
+                                   "accent":  "#1C6B48"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "flexoki-dark",
+                      "kind":  "theme",
+                      "name":  "Flexoki Dark",
+                      "author":  {
+                                     "name":  "Steph Ango (kepano), port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/kepano/flexoki"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Flexoki Dark: an inky scheme inspired by printing inks, on black.",
+                      "long":  "Flexoki Dark: an inky scheme inspired by printing inks, on black. Colours from Flexoki Dark by Steph Ango (https://stephango.com/flexoki, https://github.com/kepano/flexoki), used under the MIT License.",
+                      "size":  1583,
+                      "download":  {
+                                       "url":  "files/flexoki-dark-1.0.0.json",
+                                       "sha256":  "bc292e06836b9e57936e5a255219b789c263319a1bfb83b4288ca95e4ca4e36a"
+                                   },
+                      "manifest":  {
+                                       "id":  "flexoki-dark",
+                                       "name":  "Flexoki Dark",
+                                       "author":  "Steph Ango (kepano), port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "dark",
+                                       "accent":  "#3AA99F"
+                                   },
+                      "appearance":  "dark",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#171616",
+                                   "text":  "#CECDC3",
+                                   "accent":  "#3AA99F"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "flexoki-light",
+                      "kind":  "theme",
+                      "name":  "Flexoki Light",
+                      "author":  {
+                                     "name":  "Steph Ango (kepano), port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/kepano/flexoki"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Flexoki Light: an inky scheme inspired by printing inks and warm paper.",
+                      "long":  "Flexoki Light: an inky scheme inspired by printing inks and warm paper. Colours from Flexoki Light by Steph Ango (https://stephango.com/flexoki, https://github.com/kepano/flexoki), used under the MIT License.",
+                      "size":  1587,
+                      "download":  {
+                                       "url":  "files/flexoki-light-1.0.0.json",
+                                       "sha256":  "fc30641d9ddde0ffbca3b7355a65881818d0fa65ce0d757bcc2d500436cfb884"
+                                   },
+                      "manifest":  {
+                                       "id":  "flexoki-light",
+                                       "name":  "Flexoki Light",
+                                       "author":  "Steph Ango (kepano), port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "light",
+                                       "accent":  "#24837B"
+                                   },
+                      "appearance":  "light",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#FBF8ED",
+                                   "text":  "#100F0F",
+                                   "accent":  "#24837B"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "oceanic-next",
+                      "kind":  "theme",
+                      "name":  "Oceanic Next",
+                      "author":  {
+                                     "name":  "Dmitri Voronianski, port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/voronianski/oceanic-next-color-scheme"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Oceanic Next: a colourful dark scheme on deep blue-green.",
+                      "long":  "Oceanic Next: a colourful dark scheme on deep blue-green. Colours from Oceanic Next by Dmitri Voronianski (https://github.com/voronianski/oceanic-next-color-scheme), used under the MIT License.",
+                      "size":  1580,
+                      "download":  {
+                                       "url":  "files/oceanic-next-1.0.0.json",
+                                       "sha256":  "d65b1cecf1e81c609947ec1e77cb814db219bba8ba0bd31d73cf8cb416852bee"
+                                   },
+                      "manifest":  {
+                                       "id":  "oceanic-next",
+                                       "name":  "Oceanic Next",
+                                       "author":  "Dmitri Voronianski, port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "dark",
+                                       "accent":  "#6699CC"
+                                   },
+                      "appearance":  "dark",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#28343C",
+                                   "text":  "#CDD3DE",
+                                   "accent":  "#6699CC"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "spacegray",
+                      "kind":  "theme",
+                      "name":  "Spacegray",
+                      "author":  {
+                                     "name":  "kkga, port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/kkga/spacegray"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Spacegray: hype and minimal, in the Base16 Ocean Dark colours.",
+                      "long":  "Spacegray: hype and minimal, in the Base16 Ocean Dark colours. Colours from Spacegray (its Base16 Ocean Dark scheme) by kkga (https://github.com/kkga/spacegray), used under the MIT License.",
+                      "size":  1551,
+                      "download":  {
+                                       "url":  "files/spacegray-1.0.0.json",
+                                       "sha256":  "f579c9f52ca19b357bf44876d5ddb6dbc587e201540f500e716ff6e4d62d182f"
+                                   },
+                      "manifest":  {
+                                       "id":  "spacegray",
+                                       "name":  "Spacegray",
+                                       "author":  "kkga, port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "dark",
+                                       "accent":  "#EBCB8B"
+                                   },
+                      "appearance":  "dark",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#242830",
+                                   "text":  "#C0C5CE",
+                                   "accent":  "#EBCB8B"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "moonlight",
+                      "kind":  "theme",
+                      "name":  "Moonlight",
+                      "author":  {
+                                     "name":  "atomiks, port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/atomiks/moonlight-vscode-theme"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Moonlight: bubblegum colours on a moonlit background.",
+                      "long":  "Moonlight: bubblegum colours on a moonlit background. Colours from Moonlight by atomiks (https://github.com/atomiks/moonlight-vscode-theme), used under the MIT License.",
+                      "size":  1544,
+                      "download":  {
+                                       "url":  "files/moonlight-1.0.0.json",
+                                       "sha256":  "6e6eddb709a35d9b72bfff89b27204f53be5e9d8c7555dc9252d90995040bc0b"
+                                   },
+                      "manifest":  {
+                                       "id":  "moonlight",
+                                       "name":  "Moonlight",
+                                       "author":  "atomiks, port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "dark",
+                                       "accent":  "#7CAFFF"
+                                   },
+                      "appearance":  "dark",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#272A3E",
+                                   "text":  "#C8D3F5",
+                                   "accent":  "#7CAFFF"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "poimandres",
+                      "kind":  "theme",
+                      "name":  "Poimandres",
+                      "author":  {
+                                     "name":  "Paul Henschel (drcmda), port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/drcmda/poimandres-theme"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Poimandres: a minimal, frameless dark theme with mint and soft blue.",
+                      "long":  "Poimandres: a minimal, frameless dark theme with mint and soft blue. Colours from Poimandres by Paul Henschel and the pmndrs collective (https://github.com/drcmda/poimandres-theme), used under the MIT License.",
+                      "size":  1589,
+                      "download":  {
+                                       "url":  "files/poimandres-1.0.0.json",
+                                       "sha256":  "6d9b7f8999634ad98e2b936484b94deb6411f53fa26d4a34fc0e12d4bedd2a15"
+                                   },
+                      "manifest":  {
+                                       "id":  "poimandres",
+                                       "name":  "Poimandres",
+                                       "author":  "Paul Henschel (drcmda), port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "dark",
+                                       "accent":  "#5DE4C7"
+                                   },
+                      "appearance":  "dark",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#262934",
+                                   "text":  "#E4F0FB",
+                                   "accent":  "#5DE4C7"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "andromeda",
+                      "kind":  "theme",
+                      "name":  "Andromeda",
+                      "author":  {
+                                     "name":  "Eliver Lara, port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/EliverLara/Andromeda"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Andromeda: a dark theme with a taste of the universe, cyan and violet.",
+                      "long":  "Andromeda: a dark theme with a taste of the universe, cyan and violet. Colours from Andromeda by Eliver Lara (https://github.com/EliverLara/Andromeda), used under the MIT License. The ANSI colours the theme leaves unset are Visual Studio Code\u0027s defaults (MIT).",
+                      "size":  1623,
+                      "download":  {
+                                       "url":  "files/andromeda-1.0.0.json",
+                                       "sha256":  "a8793a0e973305c040da7482b2b1b5ce9993a8e48181abb0ab6c0f093d58f9a7"
+                                   },
+                      "manifest":  {
+                                       "id":  "andromeda",
+                                       "name":  "Andromeda",
+                                       "author":  "Eliver Lara, port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "dark",
+                                       "accent":  "#00E8C6"
+                                   },
+                      "appearance":  "dark",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#262A32",
+                                   "text":  "#D5CED9",
+                                   "accent":  "#00E8C6"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "quiet-light",
+                      "kind":  "theme",
+                      "name":  "Quiet Light",
+                      "author":  {
+                                     "name":  "Microsoft (Visual Studio Code), port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/microsoft/vscode/tree/main/extensions/theme-quietlight"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Quiet Light: a calm light theme with lilac accents, as Visual Studio Code ships it.",
+                      "long":  "Quiet Light: a calm light theme with lilac accents, as Visual Studio Code ships it. Colours from Quiet Light as Visual Studio Code ships it (https://github.com/microsoft/vscode, extensions/theme-quietlight, (c) Microsoft Corporation), which comes from Colorsublime-Themes, used under the MIT License.",
+                      "size":  1670,
+                      "download":  {
+                                       "url":  "files/quiet-light-1.0.0.json",
+                                       "sha256":  "a43a86b21d4d2178450b7c379d13c57c07b17b13d9d0482a2a1b9956f781bc3e"
+                                   },
+                      "manifest":  {
+                                       "id":  "quiet-light",
+                                       "name":  "Quiet Light",
+                                       "author":  "Microsoft (Visual Studio Code), port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "light",
+                                       "accent":  "#705697"
+                                   },
+                      "appearance":  "light",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#F3F3F5",
+                                   "text":  "#333333",
+                                   "accent":  "#705697"
+                               },
+                      "minCoreVersion":  "0.1.0",
+                      "license":  "MIT"
+                  },
+                  {
+                      "id":  "min-light",
+                      "kind":  "theme",
+                      "name":  "Min Light",
+                      "author":  {
+                                     "name":  "Miguel Solorio, port by CabinetOS",
+                                     "verified":  false,
+                                     "url":  "https://github.com/miguelsolorio/min-theme"
+                                 },
+                      "version":  "1.0.0",
+                      "description":  "Min Light: a minimal light theme in white and grey.",
+                      "long":  "Min Light: a minimal light theme in white and grey. Colours from Min Light by Miguel Solorio (https://github.com/miguelsolorio/min-theme), used under the MIT License. Its ANSI blue (#E0E0E0) cannot be read on white, so its bright blue is used for both.",
+                      "size":  1638,
+                      "download":  {
+                                       "url":  "files/min-light-1.0.0.json",
+                                       "sha256":  "966c6fc4278830ac0330e96c5991f459896c4e44fec8db29edd8eff46be2bedb"
+                                   },
+                      "manifest":  {
+                                       "id":  "min-light",
+                                       "name":  "Min Light",
+                                       "author":  "Miguel Solorio, port by CabinetOS",
+                                       "version":  "1.0.0",
+                                       "kind":  "light",
+                                       "accent":  "#1976D2"
+                                   },
+                      "appearance":  "light",
+                      "density":  false,
+                      "tile":  {
+                                   "background":  "#FCFCFC",
+                                   "text":  "#212121",
+                                   "accent":  "#1976D2"
                                },
                       "minCoreVersion":  "0.1.0",
                       "license":  "MIT"
